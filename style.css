@@ -67,9 +67,9 @@ ul li a:hover{
 }
 
 .info h3{
-    font-size: 18px;
+    font-size: 20px;
     letter-spacing: 1px;
-    line-height: 24px;
+    line-height: 18px;
 }
 
 .info span{
@@ -95,8 +95,8 @@ ul li a:hover{
     width: 30%;
     height: 60%;
     position: absolute;
-    right: 100px;
-    bottom: 0;
+    right: 130px;
+    top:150px;
 }
 
 .image img{
@@ -120,13 +120,16 @@ ul li a:hover{
 }
 
 .icons {
-    margin-left: 7%;
+    margin-left: 5%;
     color: #000;
     margin-right: -60px;
     font-size: 30px;
     transition: .4s ease;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
+}
+.icons i{
+    color: rgb(59,174,209);
 }
 
 .icons a:hover{
