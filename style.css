@@ -120,10 +120,14 @@ ul li a:hover{
 }
 
 .icons {
+<<<<<<< HEAD
     margin-left: 5%;
+=======
+    margin-left: 15%;
+>>>>>>> 19b670f002236ae7b8ab3180ccc14d7b71c33c63
     color: #000;
     margin-right: -60px;
-    font-size: 30px;
+    font-size: 35px;
     transition: .4s ease;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
